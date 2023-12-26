@@ -9,4 +9,4 @@
 
 # 시연 동영상
 
-<video src="시연동영상/시연동영상.mp4"></video>
+<video src="../시연동영상/시연동영상.mp4"></video>
