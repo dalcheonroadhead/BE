@@ -9,5 +9,8 @@
 
 # 시연 동영상
 
-<video src="./UploadFORSSAFYGIT/시연동영상/시연동영상.mp4"></video>
+<<<<<<< ReadMe.md
+<video src="../시연동영상/시연동영상.mp4"></video>
+
+시연 동영상은 폴더의 시연 동영상을 확인해주세요
 
