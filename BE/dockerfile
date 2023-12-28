@@ -1,5 +1,5 @@
 FROM openjdk:8-jre
-ARG JAR_FILE=SpringBoot_WhereIsMyHome-0.0.1-SNAPSHOT.jar
+ARG JAR_FILE=target/*.jar
 COPY ${JAR_FILE} myboot.jar
 EXPOSE 8080
 ENTRYPOINT ["java", "-jar", "app.jar"]
